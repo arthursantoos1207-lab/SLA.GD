@@ -1,0 +1,12 @@
+{
+    "geode": "4.0.0",
+    "gd": {
+        "android": "2.2074"
+    },
+    "id": "arthursantoos1207-lab.slagd",
+    "name": "SLA.GD",
+    "version": "v1.0.0",
+    "developer": "arthursantoos1207-lab",
+    "description": "Mod com No Clip para Geometry Dash",
+    "platforms": ["android"]
+}
